@@ -9,9 +9,9 @@ export default function Info(props: IInfoProps) {
         Safety and Security
       </h1>
       <div className="flex w-full h-full">
-        <div className="w-2/6 bg-auto bg-no-repeat bg-center bg-[url('https://images.unsplash.com/photo-1590856029847-4956f6a5fd92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=386&q=80')]  "></div>
-        <div className="w-3/4">
-          <p className="px-4 text-lg">
+        <div className="w-fit lg:w-2/6 bg-auto bg-no-repeat bg-center bg-[url('https://images.unsplash.com/photo-1590856029847-4956f6a5fd92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=386&q=80')]  "></div>
+        <div className="w-fit lg:w-3/4">
+          <p className="px-4 text-ellipsis text-lg">
             The United Kingdom has seen a significant rise in car thefts in
             recent years, with vehicle thefts increasing by 50% in the five
             years to 2018. This has led to growing concerns about the security
