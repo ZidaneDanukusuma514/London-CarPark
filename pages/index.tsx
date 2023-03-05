@@ -27,8 +27,8 @@ export default function Home() {
         <InfoContainer>
           <Info />
         </InfoContainer>
-
         <Mapscontainer>
+          <h1 className="text-2xl">Maps of Car Park in U.K</h1>
           <Maps />
         </Mapscontainer>
       </main>

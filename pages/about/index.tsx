@@ -7,6 +7,7 @@ export default function About(props: IAboutProps) {
   return (
     <main>
       <Header />
+      <div className="my-6"></div>
     </main>
   );
 }

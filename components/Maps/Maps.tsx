@@ -17,7 +17,7 @@ export default function Maps(props: IMapsProps): any {
   } else
     return (
       <GoogleMap
-        mapContainerClassName="h-1/2 w-full z-5"
+        mapContainerClassName="h-1/2 w-3/4 z-5"
         zoom={10}
         center={centerPosition}
       >
